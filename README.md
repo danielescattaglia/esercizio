@@ -3,7 +3,6 @@
   posso avere anche un solo nodo.
 
 
-    LINK UTILI
     https://minikube.sigs.k8s.io/docs/
     https://minikube.sigs.k8s.io/docs/handbook/registry/
 
@@ -12,7 +11,6 @@
   la configurazione per un virtual host esercizio.exmitalia.it
   
   
-    LINK UTILI
     https://www.nginx.com/resources/wiki/start/topics/examples/server_blocks/
 
 **ESERCIZIO 3**
@@ -20,7 +18,6 @@
   Creare un pod che utilizzi l'immagine creata. Il pod deve rimare Running per 5000 secondi (sleep 5000)
 
 
-    LINK UTILI
     https://docs.docker.com/engine/reference/builder/
     https://minikube.sigs.k8s.io/docs/handbook/pushing/
 
@@ -31,7 +28,6 @@
       risultato di admin.peers
    
     
-    LINK UTILI
     https://kubernetes.io/docs/tasks/debug-application-cluster/get-shell-running-container/
     https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/
     https://kubernetes.io/docs/concepts/services-networking/service/#headless-services
@@ -42,7 +38,6 @@
 - Creazione su kubernetes dello storage persistente per la directory in cui geth salva il database.
  
  
-    LINK UTILI
     https://kubernetes.io/docs/concepts/storage/persistent-volumes/
     
 **ESERCIZIO 6**
