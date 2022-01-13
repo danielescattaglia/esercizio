@@ -14,7 +14,7 @@
     https://www.nginx.com/resources/wiki/start/topics/examples/server_blocks/
 
 **ESERCIZIO 3**
-- Creazione dei Dockerfile per i nodi Ethereum con geth (uno con funzionalità di mining e uno senza) e inserirla nel registro del cluster creato. 
+- Creazione dei Dockerfile per i nodi Ethereum con geth (uno con funzionalità di mining e uno senza) e della relativa immagin. Inserire poi l'immagine creata nel registro del cluster. 
   Creare un pod che utilizzi l'immagine creata. Il pod deve rimare Running per 5000 secondi (sleep 5000)
 
 
